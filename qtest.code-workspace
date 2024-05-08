@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../keio-quant-macro/1-BusinessCycles"
+		},
+		{
+			"path": "../keio-quant-macro/2-EconomicGrowth"
+		},
+		{
+			"path": "../keio-quant-macro/3-Firms"
+		}
+	],
+	"settings": {}
+}
